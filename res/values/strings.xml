@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Copyright (C) 2023 PixelBlaster-OS
+
+    Licensed under the GNU GPLv2 license
+
+    The text of the license can be found in the LICENSE file
+    or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <string name="app_name">PixelBlaster Wallpapers</string>
+
+    <!-- Introdructor's Walls -->
+    <string name="intro_walls">Made by Introdructor</string>
+    <string name="author_intro">Yash Kachave</string>
+    <string name="wallpaper_leaf_aqua">Aqua Leaves</string>
+    <string name="wallpaper_leaf_purple">Purple Leaves</string>
+    <string name="wallpaper_pb_aqua">PixelBlaster Aqua</string>
+    <string name="wallpaper_pb_purple">PixelBlaster Purple</string>
+</resources>

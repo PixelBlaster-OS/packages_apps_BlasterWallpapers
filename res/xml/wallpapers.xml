@@ -1,0 +1,36 @@
+<!--
+    Copyright (C) 2023 PixelBlaster-OS
+
+    Licensed under the GNU GPLv2 license
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <category id="Made by Introdructor" title="@string/intro_walls" featured="PixelBlaster Aquqa">
+        <static-wallpaper
+            id="Aqua Leaves"
+            src="@drawable/Leaf_Aqua"
+            title="@string/wallpaper_leaf_aqua"
+            subtitle1="@string/author_intro" />
+
+        <static-wallpaper
+            id="Purple Leaves"
+            src="@drawable/Leaf_Purple"
+            title="@string/wallpaper_leaf_purple"
+            subtitle1="@string/author_intro" />
+
+        <static-wallpaper
+            id="PixelBlaster Aquqa"
+            src="@drawable/PixelBlaster_Aqua"
+            title="@string/wallpaper_pb_aqua"
+            subtitle1="@string/author_intro" />
+
+        <static-wallpaper
+            id="PixelBlaster Purple"
+            src="@drawable/PixelBlaster_Purple"
+            title="@string/wallpaper_pb_purple"
+            subtitle1="@string/author_intro" />
+    </category>
+
+</resources>
