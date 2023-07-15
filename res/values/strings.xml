@@ -18,4 +18,20 @@
     <string name="wallpaper_leaf_purple">Purple Leaves</string>
     <string name="wallpaper_pb_aqua">PixelBlaster Aqua</string>
     <string name="wallpaper_pb_purple">PixelBlaster Purple</string>
+
+    <!-- Abhinandan'S Walls -->
+    <string name="abhi_walls">Made by Abhinandan</string>
+    <string name="author_abhi">Abhinandan Yadav</string>
+    <string name="wallpaper_pipes_amethyst">Pipes - Amethyst</string>
+    <string name="wallpaper_pipes_crystal">Pipes - Crystal</string>
+    <string name="wallpaper_pipes_sunburst">Pipes - Sunburst</string>
+    <string name="wallpaper_dreams_blue">Dreams - Blue</string>
+    <string name="wallpaper_dreams_orange">Dreams - Orange</string>
+    <string name="wallpaper_dreams_pink">Dreams - Pink</string>
+    <string name="wallpaper_dreams_purple">Dreams - Purple</string>
+    <string name="wallpaper_dreams_violet">Dreams - Violet</string>
+    <string name="wallpaper_illusion_aqua">Illusion - Aqua</string>
+    <string name="wallpaper_illusion_meadow">Illusion - Meadow</string>
+    <string name="wallpaper_material_geometry_blue">Material Geometry - Blue</string>
+    <string name="wallpaper_material_geometry_green">Material Geometry - Green</string>
 </resources>

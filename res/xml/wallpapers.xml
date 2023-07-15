@@ -32,5 +32,77 @@
             title="@string/wallpaper_pb_purple"
             subtitle1="@string/author_intro" />
     </category>
+    <category id="Made By Abhinandan" title="@string/abhi_walls" featured="Pipes - Crystal">
+        <static-wallpaper
+        id="Pipes - Amethyst"
+        src="@drawable/Pipes_Amethyst"
+        title="@string/wallpaper_pipes_amethyst"
+        subtitle1="@string/author_abhi" />
 
+    <static-wallpaper
+        id="Pipes - Crystal"
+        src="@drawable/Pipes_Crystal"
+        title="@string/wallpaper_pipes_crystal"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Pipes - Sunburst"
+        src="@drawable/Pipes_Sunburst"
+        title="@string/wallpaper_pipes_sunburst"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Dreams - Blue"
+        src="@drawable/Dreams_Blue"
+        title="@string/wallpaper_dreams_blue"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Dreams - Orange"
+        src="@drawable/Dreams_Orange"
+        title="@string/wallpaper_dreams_orange"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Dreams - Pink"
+        src="@drawable/Dreams_Pink"
+        title="@string/wallpaper_dreams_pink"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Dreams - Purole"
+        src="@drawable/Dreams_Purple"
+        title="@string/wallpaper_dreams_purple"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Dreams - Violet"
+        src="@drawable/Dreams_Violet"
+        title="@string/wallpaper_dreams_violet"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Illusion - Aqua"
+        src="@drawable/Illusion_Aqua"
+        title="@string/wallpaper_illusion_aqua"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Illusion - Meadow"
+        src="@drawable/Illusion_Meadow"
+        title="@string/wallpaper_illusion_meadow"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Material Geometry - Blue"
+        src="@drawable/Material_Geometry_Blue"
+        title="@string/wallpaper_material_geometry_blue"
+        subtitle1="@string/author_abhi" />
+
+    <static-wallpaper
+        id="Material Geometry - Green"
+        src="@drawable/Material_Geometry_Green"
+        title="@string/wallpaper_material_geometry_green"
+        subtitle1="@string/author_abhi" />
+    </category>
 </resources>
